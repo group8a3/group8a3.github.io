@@ -3,10 +3,10 @@
 Topic	3
 Motivation	3
 Landscape	4
-<p>
+<br>
 <h2> Detailed Description	4 </h2>
  
-<p>
+<br>
 Aims	4
 Plans and Progress	6
 Roles	6
@@ -16,6 +16,6 @@ Testing	8
 Timeframe	8
 Risks	8
 Group processes and Communication	8
-<p>
+<br>
 
 
