@@ -3,7 +3,7 @@
 Topic	3
 Motivation	3
 Landscape	4
-<h2>Detailed Description	4
+<h2> Detailed Description	4
 Aims	4
 Plans and Progress	6
 Roles	6
