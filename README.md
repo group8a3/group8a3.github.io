@@ -1,5 +1,5 @@
 <h1> COSC1078 Introduction to Information Technology Assessment 3: Our IT Project </h1>
-<h2> Overview	2 </h2>
+<h2> Overview 2 </h2>
 Topic	3
 Motivation	3
 Landscape	4
