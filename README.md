@@ -1,4 +1,4 @@
-![123](https://user-images.githubusercontent.com/85005230/120059569-c3a59180-c095-11eb-9bac-328f52d9e88c.jpeg)
+
 <h1> COSC1078 Introduction to Information Technology Assessment 3: Our IT Project </h1>
 <h2> Overview 2 </h2>
 Topic	3
@@ -18,5 +18,5 @@ Timeframe	8
 Risks	8
 Group processes and Communication	8
 <br>
-<h2> fuck you </h2>
+<h2> 123 </h2>
  
