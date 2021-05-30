@@ -121,7 +121,7 @@ Group processes and Communication
  2.  Not being able to provide with 24/7 live support as planned earlier due to shortage of developers and staff.
  3.  Not being able to connect the maps API for quick location connect to find an installer in the nearby idea.
  
- <h2> The limits of the product are of major role because of the shortage of time frame and investment. </h2>
+ <h3> The limits of the product are of major role because of the shortage of time frame and investment. </h3>
  
  <br>
  
