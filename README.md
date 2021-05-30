@@ -245,14 +245,38 @@ I am a student from RMIT majoring in Information Technology. I am twenty years o
 <h3> Tester:</h3> The job needs the technique of the database, ability to Check that the program under test is handling the data correctly and basic network knowledge, and Tester also needs to have a good understanding of the test software industry, able to analyze and evaluate the possible problems.
 
 <br>
+ 
+ <h2> Wireframes of the Prototype</h2>
+ A detailed overview of the prototype we plan to make for the project. We have provided some screenshots of how the prototype’s website interface will look like.
+ ![002](https://user-images.githubusercontent.com/85005230/120101379-2c216b00-c189-11eb-909b-ca0fab8e3065.png)<br>
+ ![003](https://user-images.githubusercontent.com/85005230/120101384-380d2d00-c189-11eb-8477-b3be1914c015.png)<br>
+ ![004](https://user-images.githubusercontent.com/85005230/120101391-3fccd180-c189-11eb-92c6-a01f071da8c4.png)<br>
+ ![005](https://user-images.githubusercontent.com/85005230/120101398-4a876680-c189-11eb-8a8a-0a1141519b78.png)<br>
+
+
+
+
 
 <h2> Group reflection </h2>
 
-
-
+<h3> S3643565’s group reflection </h3>
+   Reflection: I am very much pleased and satisfied with the group’s effort. This time it was way more different to work with this group then what we did for Assignment 2. We learnt from our mistakes and reflected on it and came back stronger as a team for Assignment 3. I still think the communication within the group can be improved just by a bit. I am very well aware that English is not the first language for any of us group members. Hence, not all of us are comfortable with speaking but other than that everything was top-notch. I have zero complaints with how the group has worked together to finish this assignment. Most importantly, we finished it as a team without facing any problems. One thing that surprised all of the current group members was when we got to know that one of the group members had left the group all of a sudden right after we finished and submitted Assignment 2. That was a huge blow to the group because we were down one member but we did not let that affect us in any way. I have learned that communication within a group is key because we are not able to meet in person and discuss physically because of the pandemic and also because some of us are in different time zones so it is difficult to communicate efficiently. The group’s work on the Github log of activity reflects pretty well as well.
+ 
 
  
+ <h3> S3774607 </h3>
+   Reflection: According to me the group performed very well and was able to complete all the tasks assigned in time. All the members were hardworking and were able to achieve the milestone. I also made an amazing friend Abu during the same course. Communication was also better than A2.
+
+
+ <h3> S3886233 Tianlang Huang </h3>
+   Reflection: Due to A2, we knew the importance of preparing .We did a good job on preparing this time. Especially the communication,everyone shared their opinions. And everyone focuses on their work. Compared to the A2, I think our teamwork is better, the A3 is operating fluently this time. And for me, I learned  a lot of things from my parts. For example, I knew what kind of  jobs and skills of creating a project and software. In addition, I knew what kind of risk will appear when a company or team is doing a project or software. In conclusion, the A3 makes me know lots of basic content of creating projects.And what kind of skills and knowledge will be needed when I am going to create a project.  
  
+ <h3> S3794027 Zelong Liu </h3>
+ Reflection: Last week, our group had a discussion on A3 and finished it. Although we lost a member of our group, we still finished it successfully.
+Because of our previous experience, we discussed and assigned tasks as early as possible this time. However, I was still lagging behind in the task selection because I was not active enough. In the end, I had to choose a task I didn't know much about, so I was a little worried that I wouldn't be able to do it well.
+      Finally, we finished A3 within the time limit, and I also finished the task I didn't quite understand through the communication with the team members. I hope that I can communicate with my team members more actively in the future.
+
+
 
 
 
