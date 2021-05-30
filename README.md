@@ -108,18 +108,18 @@ Group processes and Communication
 
    The scope of the project decided in the beginning was just to help households with upgrade of lights and business with upgrade of industry lights which was later with the progress of the project increased to where we would be accommodating all the appliances available under the rebate program which also includes water heaters, air conditioners, door seals, chimney balloons and so many more items. This was done to help households and businesses to approach this site as a one stop shop for all the available products under the scheme. All the Accredited providers perform different activities where this site would also help different Accredited providers to work under the same address for different products.
    
-   The scope of the project includes –
-<h3> 1. </h3> Building the interface for the site
-<h3> 2. </h3> Connecting the data collected to a cloud database
-<h3> 3. </h3> Displaying all the new products added to the VEU activity register
-<h3> 4. </h3> Adding model numbers and consumption data to our database to do the calculation of energy for the pre existing set up.
-<h3> 5. </h3> Feedback capability
-<h3> 6. </h3> Providing a quality proposal in 24 hours of the request made
+<h2> The scope of the project includes – </h2>
+ 1.  Building the interface for the site
+ 2.  Connecting the data collected to a cloud database
+ 3.  Displaying all the new products added to the VEU activity register
+ 4.  Adding model numbers and consumption data to our database to do the calculation of energy for the pre existing set up.
+ 5.  Feedback capability
+ 6.  Providing a quality proposal in 24 hours of the request made
    
-   The limits of the project include – 
-<h3> 1. </h3> Not being able to provide with industry level interface at this point but strive to improve with time.
-<h3> 2. </h3> Not being able to provide with 24/7 live support as planned earlier due to shortage of developers and staff.
-<h3> 3. </h3> Not being able to connect the maps API for quick location connect to find an installer in the nearby idea.
+<h2>  The limits of the project include – </h2> 
+ 1.  Not being able to provide with industry level interface at this point but strive to improve with time.
+ 2.  Not being able to provide with 24/7 live support as planned earlier due to shortage of developers and staff.
+ 3.  Not being able to connect the maps API for quick location connect to find an installer in the nearby idea.
  
  <h2> The limits of the product are of major role because of the shortage of time frame and investment. </h2>
  
@@ -170,7 +170,8 @@ Group processes and Communication
 
 <br>
 
- <h2> Product Owner </h2>
+<h2> Skills and Jobs 
+<h3> Product Owner </h3>
 <h3> ·  Scrum master </h3>
 <h3> ·  Frondend Dev </h3>
 <h3> ·  Backend Dev </h3>
@@ -178,15 +179,15 @@ Group processes and Communication
 
 <br>
 
-<h3> Product owner </h3>: Me,know the structure of the website or product. And very clearly know the position of the product and what kind of people will be served by the product.Have a good vision of product market, and the future of product.
+<h3> Product owner: </h3> Me,know the structure of the website or product. And very clearly know the position of the product and what kind of people will be served by the product.Have a good vision of product market, and the future of product.
 
-<h3> Scrum master </h3>: The people who have experience developing some products.And the main job of the project is to manage the schedule, and standardize the project documentation. .Scrum master also needs to confirm the project scope,project time,project cost ,organize the resources for the project and set up roles for the groupmates.Which means the Scrum master will be the head of the project, the Scrum master needs a person who has good judgement and understanding, responsible,and be the teamwork fluently.
+<h3> Scrum master: </h3> The people who have experience developing some products.And the main job of the project is to manage the schedule, and standardize the project documentation. .Scrum master also needs to confirm the project scope,project time,project cost ,organize the resources for the project and set up roles for the groupmates.Which means the Scrum master will be the head of the project, the Scrum master needs a person who has good judgement and understanding, responsible,and be the teamwork fluently.
 
-<h3> Frontend Dev </h3>: The job needs the ability of creating the code behind the user-facing parts of the site,and building the framework to build an immersive user experience. The Frontend Dev needs to know some knowledge of design.And is able to use some design tools,frameworks and languages. The tools may need XD,photoshop,figma. The language may need html,css,javascript.
+<h3> Frontend Dev: </h3> The job needs the ability of creating the code behind the user-facing parts of the site,and building the framework to build an immersive user experience. The Frontend Dev needs to know some knowledge of design.And is able to use some design tools,frameworks and languages. The tools may need XD,photoshop,figma. The language may need html,css,javascript.
 
-<h3> Backend Dev </h3>: The job needs the ability of having a server-side language for building applications, data-related tools, a PHP framework, version control tools, and proficiency in using Linux as a development and deployment environment.And the job needs the person is able to use many kinds of languages,like C,C++,java,python,golang and mobile app design,ios,android.Also jobs need people who are friendly to talk with.
+<h3> Backend Dev: </h3> The job needs the ability of having a server-side language for building applications, data-related tools, a PHP framework, version control tools, and proficiency in using Linux as a development and deployment environment.And the job needs the person is able to use many kinds of languages,like C,C++,java,python,golang and mobile app design,ios,android.Also jobs need people who are friendly to talk with.
 
-<h3> Tester </h3>: The job needs the technique of the database, ability to Check that the program under test is handling the data correctly and basic network knowledge, and Tester also needs to have a good understanding of the test software industry, able to analyze and evaluate the possible problems.
+<h3> Tester:</h3> The job needs the technique of the database, ability to Check that the program under test is handling the data correctly and basic network knowledge, and Tester also needs to have a good understanding of the test software industry, able to analyze and evaluate the possible problems.
 
 <br>
 
