@@ -8,7 +8,7 @@ Landscape	<br>
 <h2> Detailed Description	 </h2>
  
 <br>
-Aims	<br><br>
+Aims	<br>
 Plans and Progress	<br>
 Roles	<br><br>
 Scope and Limits	<br>
