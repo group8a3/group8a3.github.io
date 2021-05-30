@@ -53,9 +53,17 @@ Student number: S3794027<br>
 E-mail: s3794027@student.emit.edu.au<br>
 I am a student from RMIT majoring in Information Technology. I am twenty years old. I graduated from RMIT Foundation then to Bachelor of Information Technology. I am interested in artificial intelligence and networking. I became interested in networking when I was in primary school, because I like playing online computer games and often encounter hacker players. Moreover, I am interested in artificial intelligence because my uncle gave me the idea. His job is related to IT and tells me It will be popular.
 
+
  
  <br>
- <h2> Topic </h2>
+ 
+ <h2>Tools</h2>
+ <h3>github:https://github.com/group8a3/group8a3.github.io.git </h3> <br>
+ <h3>website:https://group8a3.github.io/</h3>
+ <br>
+ 
+ <h2> Project Description </h2>
+ <h3> Topic </h3>
  
    The task Idea our gathering has thought of is to create a site and at a later stage attempt a versatile viable application too. The site would be named "Energy Savers". On an outline of our thought, it is a straightforward site which would assist clients with saving energy just by supplanting their current appliances with new energy saving apparatuses liberated from cost. 
  
@@ -86,6 +94,9 @@ I am a student from RMIT majoring in Information Technology. I am twenty years o
    In today’s world, there are vehicles that are energy effective which require less fuel to cover a given distance. This creates less outflows and makes them essentially more affordable to work. Plug-in hybrid and completely electric vehicles are especially eco-friendly and are now being offered at affordable prices.
    
    Our project’s end goal is to change the way individuals utilize these innovations will fundamentally affect their effectiveness. What effect can a highly efficient technology have if families and organizations are not persuaded to purchase, install, or implement these methods?  What number of individuals will utilize public transportation if there is a social disgrace against it? Studies have shown that 30% of the potential energy investment funds of high efficiency technologies is lost because of social, cultural, and monetary components. So, it is our duty to address all these factors that are mentioned above to the people and give them knowledge and teach them ways on how to implement these systems and how to make a better and cleaner world.
+  <h3> reference</h3>
+  (EESI), E., 2021. Energy Efficiency | EESI. [online] Eesi.org. Available at: <https://www.eesi.org/topics/energy-efficiency/description#:~:text=Energy%20efficiency%20simply%20means%20using,household%20and%20economy%2Dwide%20level.> [Accessed 19 May 2021].
+
  <br>
  
  <h2> Plans and Progress </h2>
@@ -159,7 +170,17 @@ I am a student from RMIT majoring in Information Technology. I am twenty years o
  <br>
  
  <h2> Tools and Technologies </h2>
- 
+    There are multiple tools and technologies needed to complete this project. We must set things accordingly for both the front and back ends. For the front end we will be needing Vaadin, which is an open-source platform for web development. Vaadin is an Apache 2.0-licensed, open-source framework. The framework and components are free to use for any purpose. It comes with an inbuilt support for Javascript and AJAX. Vaadin can likewise empower us to incorporate outer highlights into it utilizing Google Web toolbox. Vaadin is an efficient device for the designers as it delivers a rich substance in the program without the assistance of any markup records. Not at all like customer driven systems, a Vaadin application never opens its internals to the program where weaknesses can be utilized by an assailant. Vaadin mechanizes the correspondence among worker and customer through a solitary, secure endpoint.
+    
+   For the backend, we use Spring boot. Spring Boot is an open-source Java-based framework used to create a micro-Service. It is developed by Pivotal Team and is used to build stand-alone and production ready spring applications. The Spring Framework is an application system and reversal of control compartments for the Java stage. The structure's centre highlights can be utilized by any Java application, yet there are augmentations for building web applications on top of the Java EE platform.
+   
+   One of the key things we need for our project is a database tool. We plan to use MongoDB. MongoDB is a source-accessible cross-stage document-oriented database program. Classified as a NoSQL data set program, MongoDB utilizes JSON-like records with discretionary patterns. Rich and expressive query language will allow us to filter and sort by any field, no matter how nested it may be within a document. and sort by any field, no matter how nested it may be within a document.
+   
+   We need to store all the records and data and for that we need a cloud computing platform, and we are going to use AWS. Amazon Web Services is an auxiliary of Amazon giving on-request distributed computing stages and APIs to people, organizations, and governments, on a metered pay-as-you-go basis. Amazon Web Services offers dependable, adaptable, and reasonable distributed computing administrations. Allowed to join, pay just for what you use. Amazon Web Services offers a wide arrangement of worldwide cloud-based items including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security and enterprise applications. These services help associations move quicker, lower IT expenses, and scale. AWS is trusted by the biggest ventures and the most smoking new companies to control a wide assortment of jobs including: web and versatile applications, game developments, data processing and warehousing, storage, document, and numerous others.
+
+
+
+
  <br>
  
 <h2> Testing </h2>
