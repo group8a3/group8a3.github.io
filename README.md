@@ -246,10 +246,6 @@ I am a student from RMIT majoring in Information Technology. I am twenty years o
 
 <br>
  
- <h2> Wireframes of the Prototype</h2>
- A detailed overview of the prototype we plan to make for the project. We have provided some screenshots of how the prototype’s website interface will look like.
- <img>![screenshot1](https://user-images.githubusercontent.com/85005230/120101685-9981cb80-c18a-11eb-84db-0ba0755ff100.png)
-
 
 
 
