@@ -1,21 +1,21 @@
 
 <h1> COSC1078 Introduction to Information Technology Assessment 3: Our IT Project </h1>
 <h2> Overview  </h2>
-Topic	
-Motivation	
-Landscape	
+Topic	<br>
+Motivation	<br>
+Landscape	<br>
 <br>
 <h2> Detailed Description	 </h2>
  
 <br>
-Aims	
-Plans and Progress	
-Roles	
-Scope and Limits	
-Tools and Technologies	
-Testing	
-Timeframe	
-Risks	
+Aims	<br><br>
+Plans and Progress	<br>
+Roles	<br><br>
+Scope and Limits	<br>
+Tools and Technologies	<br>
+Testing	<br>
+Timeframe	<br>
+Risks	<br>
 Group processes and Communication	
 <br>
 <h2> Team Profile </h2>
