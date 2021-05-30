@@ -44,6 +44,9 @@ Name:Abhiraj Singh.<br>
 Student number:s3774607<br>
 email:s3774607@student.rmit.edu.au<br>
 My name is Abhiraj Singh. I am a state level table tennis player.I love sports and more than that I love working. I am a hardworking individual who became a manager in a company working under the government scheme at a very early age of 18. I started my own business in the same industry in partnership with the company I was manager at. I have a team of 11 people and we enjoy working together. I was very excited about the subject as it covered the part of the business I am in and made my brain run in innovating this amazing project on which this whole project is about.
+
+
+
 <br>
 Name: Zelong Liu<br>
 Student number: S3794027<br>
