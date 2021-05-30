@@ -21,17 +21,17 @@ Group processes and Communication
 <h2> Team Profile </h2>
  <h3> Team Name- Energy Savers </h3>
  
- Name: Abu Shafin Solaiman
-Student number: s3643565
-Student email: s3643565@student.rmit.edu.au
+ Name: Abu Shafin Solaiman <br>
+Student number: s3643565 <br>
+Student email: s3643565@student.rmit.edu.au<br>
 I am an international student from Bangladesh studying here at RMIT University. I am currently studying for a Bachelor of Business (Information Systems). I am in my final semester of my final year. I am into playing football and badminton in my leisure time. Besides playing, I also love listening to music and watching movies or going for long drives. I did an internship under an IT firm a few months ago and gained some knowledge about how the IT industry works. I got to learn more about cloud computing and AWS. Our group has performed really well for assignment 3. Despite one of the members of the group leaving all of a sudden, we managed to divide the workload evenly. That is the only change we brought in for this assignment. My ideal job would be a Business Analyst or a Cloud Engineer. Within the group, I met some smart people where someone wants to learn about AI, someone who is already working in his field as a representative of energy saving programs and also someone who just started knowing about IT and plans to learn in detail about the IT world. All 3 of them are very hard-working and have a set goal that they want to achieve and that is what makes them special in my eyes.
 
 <br>
 
 
-Name:Tianlang Huang.
-Student number:s3886233
-email:s3886233@student.rmit.edu.au
+Name:Tianlang Huang.<br>
+Student number:s3886233<br>
+email:s3886233@student.rmit.edu.au<br>
 My name is Tianlang Huang, I am 20. This is my first year in RMIT university. I feel very excited. My favourite sport is basketball. In my free time, I like to learn about something interesting in IT. 
 
 
@@ -40,14 +40,14 @@ My name is Tianlang Huang, I am 20. This is my first year in RMIT university. I 
 <br>
 
 
-Name:Abhiraj Singh.
-Student number:s3774607
-email:s3774607@student.rmit.edu.au
+Name:Abhiraj Singh.<br>
+Student number:s3774607<br>
+email:s3774607@student.rmit.edu.au<br>
 My name is Abhiraj Singh. I am a state level table tennis player.I love sports and more than that I love working. I am a hardworking individual who became a manager in a company working under the government scheme at a very early age of 18. I started my own business in the same industry in partnership with the company I was manager at. I have a team of 11 people and we enjoy working together. I was very excited about the subject as it covered the part of the business I am in and made my brain run in innovating this amazing project on which this whole project is about.
 <br>
-Name: Zelong Liu
-Student number: S3794027
-E-mail: s3794027@student.emit.edu.au
+Name: Zelong Liu<br>
+Student number: S3794027<br>
+E-mail: s3794027@student.emit.edu.au<br>
 I am a student from RMIT majoring in Information Technology. I am twenty years old. I graduated from RMIT Foundation then to Bachelor of Information Technology. I am interested in artificial intelligence and networking. I became interested in networking when I was in primary school, because I like playing online computer games and often encounter hacker players. Moreover, I am interested in artificial intelligence because my uncle gave me the idea. His job is related to IT and tells me It will be popular.
 
  
