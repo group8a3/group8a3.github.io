@@ -192,7 +192,8 @@ I am a student from RMIT majoring in Information Technology. I am twenty years o
  <br>
  
  <h2> Timeframe </h2>
- 
+ ![timeframe](https://user-images.githubusercontent.com/85005230/120101060-7bff3280-c187-11eb-8907-ac8a77d130ff.png)
+
  
  <br>
 
